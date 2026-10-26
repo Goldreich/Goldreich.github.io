@@ -18,7 +18,7 @@ The previous custom `/admin` editor requires a server and is not part of this Gi
 
 ## Hosting setup
 
-Repository: `Goldreich/Goldreich.github.io`. The website is published at `https://goldreich.github.io` once GitHub Pages is enabled with GitHub Actions as its publishing source. The included `.github/workflows/pages.yml` builds and publishes `public/` on each push to `main`.
+Repository: `Goldreich/Goldreich.github.io`. The website is published at `https://goldreich.github.io` using GitHub Actions as its publishing source. The included `.github/workflows/pages.yml` builds and publishes `public/` on each push to `main`.
 
 ## Local build
 
