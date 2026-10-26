@@ -1,0 +1,37 @@
+{
+  "name": "Or Goldreich",
+  "role": "PhD Candidate in Statistics",
+  "affiliation": "University of Chicago",
+  "email": "orgoldreich@gmail.com",
+  "github": "https://github.com/Goldreich",
+  "scholar": "https://scholar.google.com/citations?hl=en&user=-E0CAHEAAAAJ",
+  "linkedin": "https://www.linkedin.com/in/or-goldreich-709a765a",
+  "bio": "My research studies the convergence, stability, and statistical properties of stochastic optimization, with a particular focus on how learning-rate schedules and gradient noise shape stochastic gradient descent.",
+  "bio_more": "My broader interests include concentration inequalities, high-dimensional statistics, and probabilistic modeling. Alongside theoretical research, I build applied forecasting projects that connect statistical methods with reproducible computation.",
+  "publications": [
+    {
+      "title": "Asymptotic theory of SGD with a general learning-rate",
+      "authors": "Or Goldreich, Ziyang Wei, Soham Bonnerjee, Jiaqi Li, Wei Biao Wu",
+      "venue": "NeurIPS 2025",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/21ad9738bb0d93eb2e9ade69ff809da0-Abstract-Conference.html",
+      "pdf": "https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf"
+    },
+    {
+      "title": "Identifying stability regions of SGD with constant learning rates",
+      "authors": "Or Goldreich, Soham Bonnerjee, Qianqian Lei, Jiaqi Li, Wei Biao Wu",
+      "pdf": "https://sohamb01.github.io/drafts/soham_EOS.pdf"
+    },
+    {
+      "title": "Self-Normalized Cramér-Type Moderate Deviations for SGD",
+      "authors": "Or Goldreich, Wei Biao Wu"
+    },
+    {
+      "title": "High-Probability Last-Iterate Bounds for Clipped SGD Under Heavy-Tailed Noise",
+      "authors": "Or Goldreich, Wei Biao Wu"
+    },
+    {
+      "title": "Lᵖ Convergence of Stochastic Gradient Descent with Mixture Learning Rates",
+      "authors": "Or Goldreich, Qianqian Lei, Jiaqi Li, Sung-Yi Lin, Wei Biao Wu"
+    }
+  ]
+}
