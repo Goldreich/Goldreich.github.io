@@ -6,8 +6,8 @@
   "github": "https://github.com/Goldreich",
   "scholar": "https://scholar.google.com/citations?hl=en&user=-E0CAHEAAAAJ",
   "linkedin": "https://www.linkedin.com/in/or-goldreich-709a765a",
-  "bio": "My research studies the convergence, stability, and statistical properties of stochastic optimization, with a particular focus on how learning-rate schedules and gradient noise shape stochastic gradient descent.",
-  "bio_more": "My broader interests include concentration inequalities, high-dimensional statistics, and probabilistic modeling. Alongside theoretical research, I build applied forecasting projects that connect statistical methods with reproducible computation.",
+  "bio": "My research studies the convergence, stability and statistical properties of stochastic optimization, with a particular focus on how learning-rate schedules and gradient noise shape stochastic gradient descent. Alongside theoretical research, I build applied forecasting projects that connect statistical methods with reproducible computation.",
+  "bio_more": "",
   "publications": [
     {
       "title": "Asymptotic theory of SGD with a general learning-rate",
